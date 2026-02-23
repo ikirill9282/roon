@@ -1,0 +1,45 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --black: #000000;
+  --white: #ffffff;
+  --grey: #595555;
+  --bg: #f7f7f7;
+  --greyline: #d9d9d9;
+  --main: #197adc;
+  --add: #1c1e20;
+
+  /* Fonts */
+  --h1-font-family: 'Rubik', sans-serif;
+  --h1-font-size: 32px;
+  --h1-line-height: 140%;
+  --h1-font-weight: 800;
+  --h1-font-style: normal;
+  --18-med-font-family: 'Rubik', sans-serif;
+  --18-med-font-size: 18px;
+  --18-med-line-height: 140%;
+  --18-med-font-weight: 500;
+  --18-med-font-style: normal;
+  --16-reg-font-family: 'Rubik', sans-serif;
+  --16-reg-font-size: 16px;
+  --16-reg-line-height: 140%;
+  --16-reg-font-weight: 400;
+  --16-reg-font-style: normal;
+  --14-semi-font-family: 'Rubik', sans-serif;
+  --14-semi-font-size: 14px;
+  --14-semi-line-height: 140%;
+  --14-semi-font-weight: 600;
+  --14-semi-font-style: normal;
+  --14-reg-font-family: 'Rubik', sans-serif;
+  --14-reg-font-size: 14px;
+  --14-reg-line-height: 140%;
+  --14-reg-font-weight: 400;
+  --14-reg-font-style: normal;
+  --12-reg-font-family: 'Rubik', sans-serif;
+  --12-reg-font-size: 12px;
+  --12-reg-line-height: 140%;
+  --12-reg-font-weight: 400;
+  --12-reg-font-style: normal;
+
+  /* Effects */
+}
